@@ -4,8 +4,6 @@
 
 
 function LetterChanges(str) { 
-
-  // code goes here
   var t = str.split('');
   var newStr = '';
   t.forEach(function(t){
